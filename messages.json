@@ -12,5 +12,12 @@
       "time": "1:42 AM",
       "contents": "Test again"
     }
+  },
+  {
+    "message": {
+      "author": "Kriday Kini",
+      "time": "1:46 AM",
+      "contents": "lala land"
+    }
   }
 ]
