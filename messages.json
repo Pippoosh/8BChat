@@ -19,5 +19,12 @@
       "time": "1:09 AM",
       "contents": "Test"
     }
+  },
+  {
+    "message": {
+      "author": "User",
+      "time": "1:10 AM",
+      "contents": "hello, world"
+    }
   }
 ]
