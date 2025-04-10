@@ -12,5 +12,12 @@
       "time": "1:05 AM",
       "contents": "I understand. How can I help with that?"
     }
+  },
+  {
+    "message": {
+      "author": "User",
+      "time": "1:09 AM",
+      "contents": "Test"
+    }
   }
 ]
