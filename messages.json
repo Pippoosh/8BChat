@@ -5,5 +5,12 @@
       "time": "12:00",
       "contents": "Hello, World!"
     }
+  },
+  {
+    "message": {
+      "author": "System",
+      "time": "1:05 AM",
+      "contents": "I understand. How can I help with that?"
+    }
   }
 ]
