@@ -20,5 +20,17 @@
     "location": "",
     "created": "2025-04-12T17:52:46.702Z",
     "lastUpdated": "2025-04-12T17:52:46.702Z"
+  },
+  {
+    "email": "aditi1.pai@gmail.com",
+    "name": "Aditi",
+    "password": "1234567",
+    "displayName": "Aditi",
+    "avatarColor": "#000",
+    "avatarTextColor": "white",
+    "bio": "",
+    "location": "",
+    "created": "2025-04-16T15:04:01.143Z",
+    "lastUpdated": "2025-04-16T15:04:01.145Z"
   }
 ]
